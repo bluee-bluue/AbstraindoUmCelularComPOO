@@ -1,0 +1,14 @@
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\bin\Debug\net6.0\Abstraindo um Celular com POO.exe
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\bin\Debug\net6.0\Abstraindo um Celular com POO.deps.json
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\bin\Debug\net6.0\Abstraindo um Celular com POO.runtimeconfig.json
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\bin\Debug\net6.0\Abstraindo um Celular com POO.dll
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\bin\Debug\net6.0\Abstraindo um Celular com POO.pdb
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.AssemblyInfoInputs.cache
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.AssemblyInfo.cs
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.csproj.CoreCompileInputs.cache
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.dll
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\refint\Abstraindo um Celular com POO.dll
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.pdb
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\Abstraindo um Celular com POO.genruntimeconfig.cache
+C:\Users\scaiq\OneDrive\Notebook\Documents\Abstraindo um Celular com POO\obj\Debug\net6.0\ref\Abstraindo um Celular com POO.dll
